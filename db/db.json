@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "title": "My first note",
+      "text": "testing to type my first note!",
+      "id": "sktwi11nlkqm0hmbc"
+    },
+    {
+      "title": "looks like first one worked",
+      "text": "going to save a second entry",
+      "id": "sktwi11nlkqm0i2y3"
+    },
+    {
+      "title": "important notes",
+      "text": "this contains important notes",
+      "id": "sktwi11nlkqm0j5xw"
+    },
+    {
+      "title": "this can be deleted",
+      "text": "you can delete this",
+      "id": "sktwi11nlkqm0jvfy"
+    }
+  ]
+}
