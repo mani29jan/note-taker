@@ -12,19 +12,21 @@
 Note Taker is an express based app to take and store notes on a server.
 
 ## Installation
-none required :)
 
-## Usage
-[https://rocky-brushlands-86756.herokuapp.com/](https://rocky-brushlands-86756.herokuapp.com/)
 
-![screenshot](https://user-images.githubusercontent.com/75542938/115149426-e9606500-a018-11eb-9d55-208dd1904e91.png)
+## Deployed app
+https://not-taker.herokuapp.com/
 
-## Contributing
-made with luv by Sydney Walcoff
+<img width="1678" alt="Screen Shot 2021-07-02 at 12 33 13 AM" src="https://user-images.githubusercontent.com/26471167/124238274-3a86dd80-dacd-11eb-858d-75aa152392e3.png">
+
+
+## Made by
+Manpreet Singh
 
 ## Tests
-n/a
+
 
 ## Questions
-Questions? Reach out at [github.com/sydneywalcoff](github.com/sydneywalcoff) or sydney.walcoff@gmail.com
+https://github.com/mani29jan
+mani29jan@yahoo.com
   
